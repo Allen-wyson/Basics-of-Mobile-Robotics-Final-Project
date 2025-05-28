@@ -1,7 +1,5 @@
 # EPFL MICRO-452 Fall 2024 Final Project: Mobile Robotics with Thymio
 
-![EPFL Logo](docs/figures/epfl_logo.png)
-
 ## 📋 Project Overview
 
 This repository hosts the final group project for **MICRO-452: Basics of Mobile Robotics** at EPFL.
