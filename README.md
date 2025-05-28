@@ -27,7 +27,7 @@ Our task was to program a Thymio robot to navigate from a starting point to a go
 * **Alvaro Martinez-Vizmanos**
 * **Yuheng He**
 
-**Course Instructor:** Francesco Mondada , EPFL
+**Course Instructor:** Prof. Francesco Mondada , EPFL
 
 
 ## 🙏 Acknowledgments
